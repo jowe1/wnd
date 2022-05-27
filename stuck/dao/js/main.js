@@ -326,7 +326,6 @@ jQuery(document).ready(function(){
             },
             "brightnessStep": 7,
             "graph": {
-                "fillAlphas": 1,
                 "lineAlpha": 1,
                 "lineColor": "#fff",
                 "fillAlphas": 0.85,
