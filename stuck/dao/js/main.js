@@ -58,7 +58,7 @@ jQuery(document).ready(function(){
                 date: timer,
                 offset: +10
             }, function () {
-                alert('TOKEN SALE HIGH AND LIVE AF!');
+                //alert('TOKEN SALE HIGH AND LIVE AF!');
             });
         }
     })(jQuery());
